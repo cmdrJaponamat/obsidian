@@ -7,6 +7,14 @@
 ## Навигация
 
 - [[roadmap|Roadmap]]
+- [[lecture-01-rust-intro-and-cargo|Лекция 1. Введение и Cargo]]
+- [[lecture-02-ownership-and-borrowing|Лекция 2. Ownership и borrowing]]
+- [[lecture-03-enums-option-result-and-collections|Лекция 3. Enum, Result и коллекции]]
+- [[lecture-04-traits-generics-and-modules|Лекция 4. Traits, generics и модули]]
+- [[lecture-05-testing-cli-files-and-serde|Лекция 5. Тесты, CLI и файлы]]
+- [[lecture-06-async-tokio-and-http|Лекция 6. Async и HTTP]]
+- [[lecture-07-real-rust-project-practices|Лекция 7. Практики проекта]]
+- [[lecture-08-final-project-and-job-readiness|Лекция 8. Финальный проект и готовность к найму]]
 - [[module-01-start-cargo|Модуль 1. Старт, Cargo, синтаксис]]
 - [[module-02-ownership-borrowing|Модуль 2. Ownership и borrowing]]
 - [[module-03-enums-results-collections|Модуль 3. Enum, Result, коллекции]]
