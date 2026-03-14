@@ -7,6 +7,14 @@
 ## Навигация
 
 - [[roadmap|Roadmap]]
+- [[lecture-01-cpp-setup-and-basics|Лекция 1. Среда и база]]
+- [[lecture-02-memory-references-and-lifetime|Лекция 2. Память и lifetime]]
+- [[lecture-03-stl-oop-and-code-organization|Лекция 3. STL и организация кода]]
+- [[lecture-04-algorithms-and-data-structures|Лекция 4. Алгоритмы и структуры данных]]
+- [[lecture-05-cmake-build-and-testing|Лекция 5. CMake и тесты]]
+- [[lecture-06-concurrency-linux-and-debugging|Лекция 6. Потоки, Linux и отладка]]
+- [[lecture-07-code-reading-design-and-interview-prep|Лекция 7. Дизайн и собеседования]]
+- [[lecture-08-final-project-and-job-readiness|Лекция 8. Финальный проект и готовность к найму]]
 - [[module-01-foundation|Модуль 1. База и среда]]
 - [[module-02-memory-raii|Модуль 2. Память, ссылки, RAII]]
 - [[module-03-oop-stl|Модуль 3. ООП и STL]]
