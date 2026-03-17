@@ -11,6 +11,7 @@
 
 - [[STUDY_PLAN|Главный план изучения]]
 - [[JUNIOR_READINESS_ASSIGNMENTS|Обязательные задания до junior]]
+- [[CODE_STYLE_AND_NAMING|Оформление кода и именование]]
 - [[REPORT|Краткий отчет]]
 - [[IDE_NEOVIM_SETUP|Рекомендации по Neovim/IDE]]
 - [[RECOVERY_CONTEXT|Общий файл восстановления контекста]]
